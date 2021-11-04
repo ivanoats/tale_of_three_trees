@@ -4,7 +4,11 @@ GEM
     bluecloth (2.1.0)
     gli (1.2.6)
     json (1.5.1)
-    nokogiri (1.4.4)
+    mini_portile2 (2.6.1)
+    nokogiri (1.12.5)
+      mini_portile2 (~> 2.6.1)
+      racc (~> 1.4)
+    racc (1.6.0)
     rack (1.2.2)
     showoff (0.4.1)
       bluecloth
